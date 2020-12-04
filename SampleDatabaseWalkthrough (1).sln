@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleDatabaseWalkthrough", "SampleDatabaseWalkthrough\SampleDatabaseWalkthrough.csproj", "{CBD48B98-3B98-4F5E-A119-7F154193C79D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBD48B98-3B98-4F5E-A119-7F154193C79D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD48B98-3B98-4F5E-A119-7F154193C79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD48B98-3B98-4F5E-A119-7F154193C79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD48B98-3B98-4F5E-A119-7F154193C79D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B82106FD-D533-470B-B8F7-561EC441250A}
+	EndGlobalSection
+EndGlobal
